@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashutosh1802
 - 👀 I’m interested in Artificial intelligence 
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m open to collaboration...
 - 📫 How to reach me mail me at ashutosh.sharma1802@gmail.com
 
 <!---
