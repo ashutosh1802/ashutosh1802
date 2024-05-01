@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working as a Unity Developer.<br>👯 I’m looking to collaborate with others for game jams.<br>🌱 I’m currently trying to break into the games industry.<br>💬 Ask me about video games/Star Wars/Lord Of The Rings.
+👯 I’m looking to collaborate with others<br>🌱 I’m currently trying to break into the IT industry.<br>
 
 
 ## 🌐 Socials:
